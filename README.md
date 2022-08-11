@@ -4,12 +4,14 @@
 
 **Objtivo  General**
 
-* Conocer sobre los capacitores e inductores mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
+* Conocer y realizar ejercicios de inductores y transformadores mediante la utilización del Libro de Floyd para el desarrollo de ejercicios aplicados.
  
 **Ojetivo Especifico**
 
-* Resumir los capitulos once y doce del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
+• Resumir los capítulos trece y catorce del libro de Floyd, para el estudio de los temas relacionados a inductores.
 
-* Aplicar los conocimientos adquiridos de capacitores e inductores para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+• Aplicar los conocimientos aprendidos de los capítulos analizados para practicas de laboratorio y ejercicios mediante cálculos.
+
+• Analizar el contenido de dinámica de circuitos para la resolución de ejercicios, que contengan diversas magnitudes para el control de circuitos.
 
 # **2.MARCO TEÓRICO**
