@@ -16,6 +16,10 @@
 
 # **2.MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/105617383/184255028-054612b9-dccf-4af4-baa9-2062b4f5026f.png)
+
+![image](https://user-images.githubusercontent.com/105617383/184258845-a5b72547-6fef-49b1-86ce-9d3db2999edf.png)
+
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **SECCIÓN 13–1 El inductor básico**
@@ -38,3 +42,18 @@ SECCIÓN 13–3 Inductores en serie y en paralelo
 **11. Se conectan cinco inductores en serie. El valor más bajo es de 5 μH. Si el valor de cada inductor es el
 doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la
 inductancia total?**
+
+**13. Determine la inductancia total en la figura 13-44**
+
+![image](https://user-images.githubusercontent.com/105617383/184249763-c2dbf49b-88f9-4b26-b8f4-c163ef876d66.png)
+
+**15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
+50  μH, 25  μH, y 15  μH.**
+
+**17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.**
+
+![image](https://user-images.githubusercontent.com/105617383/184249979-3669f1b5-7e31-4535-8f1e-aecd461fb260.png)
+
+**SECCIÓN 13–4 Inductores en circuitos de cd**
+
+**19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
