@@ -28,15 +28,38 @@
 
 (a) 300 mH (b) 0.08 H (c) 5 mH (d) 0.00045 mH
 
+* 300mH = 300000 uH
+
+* 0.08H = 80000 uH
+
+* 5mH = 5000uH
+
+* 0.00045H = 450uH
+
 4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
 
-6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10  105 m2 y tiene longitud de 0.05 m? La permeabilidad
-del núcleo es de 1.2  106 H/m. 
-8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+Vind = L (di/dt)
 
-10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en
-la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de
-un vacío (4p  106 H/m). Determine la inductancia de la bobina que se formó.
+Vind/L = di/dt
+
+50V / 25mH = di/dt
+
+di/dt = 2000 A/s
+
+6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 × 10 ^ (-5) m ^ (2) y tiene longitud de 0.05 m? La permeabilidad
+del núcleo es de 1.2 × 10 ^ (-6) H/m. 
+
+![image](https://user-images.githubusercontent.com/105617383/185480355-a35ca8f3-e39b-4831-a414-c1e7cdc425c0.png)
+
+8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+
+![image](https://user-images.githubusercontent.com/105617383/185480398-c3ed48e6-c309-47a2-b9ac-6da70788b99a.png)
+
+10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4π×10^(-6) H/m). Determine la inductancia de la bobina que se formó.
+
+![image](https://user-images.githubusercontent.com/105617383/185480887-c0638831-03a8-490c-9a9e-d43ec8dc4036.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185481093-5326e86c-5d6e-4ed2-9418-7e12f781126d.png)
 
 SECCIÓN 13–3 Inductores en serie y en paralelo
 
