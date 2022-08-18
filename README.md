@@ -20,6 +20,17 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184258845-a5b72547-6fef-49b1-86ce-9d3db2999edf.png)
 
+
+
+![image](https://user-images.githubusercontent.com/105617383/185487063-b59b2b01-4c2b-4f35-b622-a592b7948bbb.png)
+![image](https://user-images.githubusercontent.com/105617383/185487091-9809d831-00be-4e04-8252-1b51b8e2c4b4.png)
+![image](https://user-images.githubusercontent.com/105617383/185487114-bac6554d-97b1-436b-a6fd-936e55c55bf5.png)
+![image](https://user-images.githubusercontent.com/105617383/185487135-156e70d5-a14a-4909-b8d7-ebdce281b6e6.png)
+![image](https://user-images.githubusercontent.com/105617383/185487213-f1167228-18e8-442c-989a-28fd3c019d37.png)
+
+
+
+
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **SECCIÓN 13–1 El inductor básico**
