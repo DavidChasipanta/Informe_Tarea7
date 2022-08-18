@@ -93,17 +93,19 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/105617383/185482452-e042a89b-0c46-4ef5-a0f3-36b429d73f6d.png)
 
-*22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+**22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:*
 
 (a) 10 us (b) 20 us (c) 30us
 
 ![image](https://user-images.githubusercontent.com/105617383/185482712-ab175778-ad88-4f3f-ba9d-e80228d993d0.png)
 
-*24. Repita el problema 22 para los siguientes instantes:
+![image](https://user-images.githubusercontent.com/105617383/185483234-1dad8b28-b706-49e9-9693-764f5930e897.png)
+
+**24. Repita el problema 22 para los siguientes instantes:**
 
 Solución:
 
-![image](https://user-images.githubusercontent.com/105617383/185482815-15c3bd0a-f2cb-4ea9-903c-353629d8984f.png)
+![image](https://user-images.githubusercontent.com/105617383/185483411-b5d03adf-4aff-4b0e-9102-f9e45e1a6396.png)
 
 26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
 (b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
