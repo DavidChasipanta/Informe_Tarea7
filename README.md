@@ -93,7 +93,7 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/105617383/185482452-e042a89b-0c46-4ef5-a0f3-36b429d73f6d.png)
 
-**22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:*
+**22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:**
 
 (a) 10 us (b) 20 us (c) 30us
 
@@ -107,22 +107,47 @@ Solución:
 
 ![image](https://user-images.githubusercontent.com/105617383/185483411-b5d03adf-4aff-4b0e-9102-f9e45e1a6396.png)
 
-26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
-(b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
+**26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?**
 
+A medida que la onda cuadrada para de cero a su valor máximo de 10V, se induce un voltaje entre las terminales del inductor que se opone a este cambio conforme aumenta el campo magnético, a medida que el campo magnético aumenta al voltaje inducido disminuye haciendo que su polaridad cambie.
 
-*28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?
-(b) ¿Cuál es la corriente después de que transcurren 5t?
+**(b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?**
 
-SECCIÓN 13–5 Inductores en circuitos de ca
+![image](https://user-images.githubusercontent.com/105617383/185483790-dd4f609a-3082-4ea1-8510-c6a5114e3ddf.png)
 
-30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las term
+**28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?**
+
+(b) ¿Cuál es la corriente después de que transcurren 5t?**
+
+![image](https://user-images.githubusercontent.com/105617383/185484029-ac43b25f-fb05-4c60-843a-e86466e49769.png)
+
+**SECCIÓN 13–5 Inductores en circuitos de ca**
+
+**30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.**
+
+![image](https://user-images.githubusercontent.com/105617383/185484497-0aeaa02b-d152-47fb-8d02-2ddf651826aa.png)
+
+Solución:
+
+![image](https://user-images.githubusercontent.com/105617383/185484254-1439caf8-975f-4342-8a1f-8e3de366de1f.png)
 
 32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3
 
+![image](https://user-images.githubusercontent.com/105617383/185484654-850cf678-bbbb-4ca5-86ac-744aa24f31b8.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185484695-c95b8583-3d0d-4287-8de7-defe735a84ed.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185484711-68ba5c09-c676-4597-b018-2fcda5a82def.png)
+
 34. En la figura 13-51, determine la potencia reactiva.
 
+![image](https://user-images.githubusercontent.com/105617383/185484731-8e8cb2e5-1413-4f90-9324-2cfc0d510c53.png)
 
+Solución:
+
+![image](https://user-images.githubusercontent.com/105617383/185484775-98bc6b05-2b49-434f-8d99-394a7999ecef.png)
+
+#Capitulo14
 
 
 
