@@ -218,7 +218,24 @@ en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el s
 
 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable
 
+ # **4.VIDEO**
 
+
+# **5. CONCLUSIONES**
+* En conclusión, una carga conectada a través del devanado secundario de un transformador parece tener una resistencia que no es necesariamente igual a la resistencia real de la carga. La carga real por así decirlo se refleja en el lado primario conforme lo determina la relación de vueltas. Y esta carga reflejada es lo que la fuente primaria ve efectivamente, y va a ser la que determina la cantidad de corriente en el primario.
+
+* También se tiene que una aplicación de los transformadores se puede observar en la igualación de impedancia que consiste en la igualación de una resistencia de carga frente a una resistencia de fuente para así lograr una transferencia de potencia máxima.
+
+* El inductor es un alambre enrollado que puede tener o no un núcleo físico y que genera un campo electromagnético cuando la corriente fluye en él, por lo tanto, genera un voltaje inducido y presenta una resistencia de devanado debido a que su estructura esta compuesto por varios tramos de alambre que posee resistencia mínima pero al haber mayo longitud de alambre junta la resistencia es más notoria, esta resistencia se encuentra en serie respecto al inductor, además, entre cada vuelta que se realiza con el alambre y al juntarlos se genera una capacitancia parásita y esta se encuentra en forma paralela al inductor.
+
+* El calculo de la inductancia total es similar al cálculo de la resistencia ya que la inductancia total es la sumatoria se todas sus inductancias cuando se encuentran en serie mientras que la inductancia total cuando se encuentran en paralelo es la sumatoria de los recíprocos de cada inductancia. También, la relación entre la inductancia y la resistencia permite hallar la constante de tiempo RL que se refiere al tiempo que se demora para que la corriente cambie su valor a otro debido al voltaje producido por el inductor que se opone a la corriente.
+
+* Tenemos que un transformador donde el voltaje secundario es menor que el voltaje primario se llama transformador reductor, donde la cantidad en que se reduce el voltaje depende de la relación de vueltas. La relación de vueltas de un transformador reductor siempre es menor que 1 porque el número de vueltas en el devanado secundario siempre es menor que el número de vueltas en el devanado primario.
+
+* Los inductores no son tan versátiles como los capacitores y tienden a estar más limitados en sus aplicaciones debido en parte a su tamaño, a factores de costos y a su comportamiento no ideal (resistencia interna, etc.). Una de las aplicaciones más comunes de los inductores es para reducir el ruido en los dispositivos eléctricos.
+
+# **6. BIBLIOGRAFÍA**
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
 
 
 
