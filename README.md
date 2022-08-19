@@ -162,32 +162,57 @@ Solución:
 
 **SECCIÓN 14–1 Inductancia mutua**
 
-2. Determine el coeficiente de acoplamiento cuando LM  1 mH, L1  8 mH, y L2  2 mH
+2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 =  2 µH
+
+![image](https://user-images.githubusercontent.com/105617383/185533202-33246937-afe1-48be-96b9-befcc32ef37b.png)
 
 SECCIÓN 14–2 El transformador básico
 
-4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas
-vueltas debe haber en el devanado secundario?
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+![image](https://user-images.githubusercontent.com/105617383/185533243-26dc7776-6e49-44e1-8660-3c4daa53d4ac.png)
 
 SECCIÓN 14–3 Transformadores elevadores y reductores
 
 6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
 
-8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para
-obtener un voltaje secundario de 60 V de ca?
+![image](https://user-images.githubusercontent.com/105617383/185533300-2bbcc577-cec9-4eb2-ab37-d75442a93188.png)
 
-10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario
-si la relación de vueltas es de 0.2
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+![image](https://user-images.githubusercontent.com/105617383/185533326-59a68154-a9fb-4f9e-914b-e095e5560052.png)
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2
+
+![image](https://user-images.githubusercontent.com/105617383/185533367-5362560a-9d5e-4971-a162-c275ed8e8e13.png)
 
 12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/105617383/185533401-6212b41c-e72d-451d-a6cf-883085ae0e04.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185533416-4e2ba181-0bb6-4a00-934a-b1c9105e18b7.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185533447-91299ef0-bff5-4d73-bf77-d53ba8783be2.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185533485-2b0bc11e-f8fd-4c8d-9549-0f63339575ac.png)
 
 SECCIÓN 14–4 Carga del devanado secundario
 
 14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL
 
+![image](https://user-images.githubusercontent.com/105617383/185533508-9a438d28-66c2-48c8-a453-5de655ec5eac.png)
+
+![image](https://user-images.githubusercontent.com/105617383/185533537-0e6557b7-b52b-496f-974b-056f43acc20a.png)
+
 SECCIÓN 14–5 Carga reflejada
 
 16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/105617383/185533575-c9e4c0a0-f5d2-42b6-b051-b8d978d0aef8.png)
+
+Solución: 
+
+![image](https://user-images.githubusercontent.com/105617383/185533646-ed3de2f4-7f3c-401b-8bf0-d1bf0ab73efe.png)
 
 SECCIÓN 14–6 Igualación de impedancia
 
