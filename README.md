@@ -191,43 +191,75 @@ SECCIÓN 14–5 Carga reflejada
 
 SECCIÓN 14–6 Igualación de impedancia
 
-18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia
-máxima al altavoz de 4 Æ.
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω.
 
-*20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50
-para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el
-número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+![image](https://user-images.githubusercontent.com/105617383/185519911-158f3485-d9ed-479e-8547-73749ac4c5cd.png)
 
-SECCIÓN 14–7 Características de un transformador no ideal
+Solución:
+
+![image](https://user-images.githubusercontent.com/105617383/185519920-6299d743-9eb4-400e-a1d6-1664c4232485.png)
+
+**20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Ω . Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.**
+
+![image](https://user-images.githubusercontent.com/105617383/185520111-ef922325-6ede-4d15-81b8-0ade73d47f8e.png)
+
+Solución:
+
+![image](https://user-images.githubusercontent.com/105617383/185520132-17ecbc8f-2c8f-467a-8c4f-4b9bf6570617.png)
+
+**SECCIÓN 14–7 Características de un transformador no ideal**
 
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
-24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
-ca. El voltaje secundario es de 600 V. 
+![image](https://user-images.githubusercontent.com/105617383/185519843-efc8468c-947b-41d7-8bfe-fe9c2b2f5693.png)
+
+**24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600V.
+
 (a) ¿Cuál es la corriente máxima en la carga?
+
+![image](https://user-images.githubusercontent.com/105617383/185519559-edc18237-91ec-4794-9e0d-46fb79fbd011.png)
+
 (b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+![image](https://user-images.githubusercontent.com/105617383/185519593-a4001076-60b6-4994-876c-759a5444117f.png)
+
 (c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
 
-26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. 
+![image](https://user-images.githubusercontent.com/105617383/185519755-044af47d-a7e0-402f-8768-dca910897294.png)
+
+**26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.**
+ 
 (a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+![image](https://user-images.githubusercontent.com/105617383/185519359-54ddf948-fcb9-4d9b-9fb8-0cdb3c22a575.png)
+
 (b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
-(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/105617383/185519420-7fa04cc3-9741-4aaf-ad18-a8823358d266.png)
 
 SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
 
-28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma
-del devanado secundario al devanado primario.
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.
+![image](https://user-images.githubusercontent.com/105617383/185519219-7040d388-cbd6-42d6-841f-8127dd968a4c.png)
 
+Solución:
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación c
+![image](https://user-images.githubusercontent.com/105617383/185519241-f83e05c6-cc06-476d-b113-7faac3bd8599.png)
 
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240V
 
-SECCIÓN 14–9 Localización de fallas
+![image](https://user-images.githubusercontent.com/105617383/185519128-1b15be68-8cc0-4878-b2b3-f0d627d30b66.png)
+ Solución:
+ 
+ Vsec=nVpri
 
-32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente
-en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+Vsec=(0.1)(240)=24V
 
-34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable
+Vsec=(0.2)(240)=48V
+
+Vsec=(0.5)(240)=120V
+
+Vsec=(1)(240)=240V
 
  # **4.VIDEO**
 
