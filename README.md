@@ -29,8 +29,6 @@
 ![image](https://user-images.githubusercontent.com/105617383/185487213-f1167228-18e8-442c-989a-28fd3c019d37.png)
 
 
-
-
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **SECCIÓN 13–1 El inductor básico**
@@ -86,11 +84,11 @@ Solución:
 
 ![image](https://user-images.githubusercontent.com/105617383/185482079-0399cc50-a6a7-4d8b-a1d3-ca754e6374d0.png)
 
-16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH.¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+**16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH.¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185482179-fe53f46d-2fd3-4792-a216-0cb7ffe4a01b.png)
 
-18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
+**18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.**
 
 ![image](https://user-images.githubusercontent.com/105617383/185482319-893f9d5f-ebee-495d-b21e-2d5e0bb77629.png)
 
@@ -98,9 +96,9 @@ Solución:
 
 ![image](https://user-images.githubusercontent.com/105617383/185482392-ee1a6ced-bf5d-4c49-9f7d-7192faad2d69.png)
 
-SECCIÓN 13–4 Inductores en circuitos de cd
+**SECCIÓN 13–4 Inductores en circuitos de cd**
 
-20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valortotal con cada una de las siguientes combinaciones
+**20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valortotal con cada una de las siguientes combinaciones**
 
 ![image](https://user-images.githubusercontent.com/105617383/185482452-e042a89b-0c46-4ef5-a0f3-36b429d73f6d.png)
 
@@ -162,31 +160,31 @@ Solución:
 
 **SECCIÓN 14–1 Inductancia mutua**
 
-2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 =  2 µH
+**2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 =  2 µH**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533202-33246937-afe1-48be-96b9-befcc32ef37b.png)
 
-SECCIÓN 14–2 El transformador básico
+**SECCIÓN 14–2 El transformador básico**
 
-4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+**4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533243-26dc7776-6e49-44e1-8660-3c4daa53d4ac.png)
 
-SECCIÓN 14–3 Transformadores elevadores y reductores
+**SECCIÓN 14–3 Transformadores elevadores y reductores**
 
-6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+**6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533300-2bbcc577-cec9-4eb2-ab37-d75442a93188.png)
 
-8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+**8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533326-59a68154-a9fb-4f9e-914b-e095e5560052.png)
 
-10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2
+**10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533367-5362560a-9d5e-4971-a162-c275ed8e8e13.png)
 
-12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+**12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533401-6212b41c-e72d-451d-a6cf-883085ae0e04.png)
 
@@ -196,17 +194,17 @@ SECCIÓN 14–3 Transformadores elevadores y reductores
 
 ![image](https://user-images.githubusercontent.com/105617383/185533485-2b0bc11e-f8fd-4c8d-9549-0f63339575ac.png)
 
-SECCIÓN 14–4 Carga del devanado secundario
+**SECCIÓN 14–4 Carga del devanado secundario**
 
-14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL
+**14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533508-9a438d28-66c2-48c8-a453-5de655ec5eac.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/185533537-0e6557b7-b52b-496f-974b-056f43acc20a.png)
 
-SECCIÓN 14–5 Carga reflejada
+**SECCIÓN 14–5 Carga reflejada**
 
-16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+**16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185533575-c9e4c0a0-f5d2-42b6-b051-b8d978d0aef8.png)
 
@@ -216,7 +214,7 @@ Solución:
 
 SECCIÓN 14–6 Igualación de impedancia
 
-18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω.
+**18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω.**
 
 ![image](https://user-images.githubusercontent.com/105617383/185519911-158f3485-d9ed-479e-8547-73749ac4c5cd.png)
 
@@ -234,11 +232,11 @@ Solución:
 
 **SECCIÓN 14–7 Características de un transformador no ideal**
 
-22. ¿Cuál es la eficiencia del transformador en el problema 21?
+**22. ¿Cuál es la eficiencia del transformador en el problema 21?**
 
 ![image](https://user-images.githubusercontent.com/105617383/185519843-efc8468c-947b-41d7-8bfe-fe9c2b2f5693.png)
 
-**24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600V.
+**24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600V.**
 
 (a) ¿Cuál es la corriente máxima en la carga?
 
@@ -262,18 +260,20 @@ Solución:
 
 ![image](https://user-images.githubusercontent.com/105617383/185519420-7fa04cc3-9741-4aaf-ad18-a8823358d266.png)
 
-SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
+**SECCIÓN 14–8 Transformadores con tomas y devanados múltiples**
 
-28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.
+**28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.**
+
 ![image](https://user-images.githubusercontent.com/105617383/185519219-7040d388-cbd6-42d6-841f-8127dd968a4c.png)
 
 Solución:
 
 ![image](https://user-images.githubusercontent.com/105617383/185519241-f83e05c6-cc06-476d-b113-7faac3bd8599.png)
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240V
+** 30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240V**
 
 ![image](https://user-images.githubusercontent.com/105617383/185519128-1b15be68-8cc0-4878-b2b3-f0d627d30b66.png)
+ 
  Solución:
  
  Vsec=nVpri
